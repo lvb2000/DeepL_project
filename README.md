@@ -1,6 +1,6 @@
 # DeepL_project
 
-Semester Project in DeepLearning lecture from Professor Thomas Hofmann at ETH in HS203.
+Semester Project in DeepLearning lecture from Professor Thomas Hofmann at ETH in HS2023.
 
 ## Research
 
