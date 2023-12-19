@@ -1,0 +1,3 @@
+[submodule "pydreamer"]
+	path = pydreamer
+	url = https://github.com/JonaSchulz/pydreamer.git
