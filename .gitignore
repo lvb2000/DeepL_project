@@ -160,3 +160,7 @@ cython_debug/
 .idea/
 .DS_Store
 
+mlruns/
+# dont show any folder which contains mlruns
+**/mlruns
+
