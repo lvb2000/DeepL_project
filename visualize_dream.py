@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import os
 
-file_path = '0165001.npz'
+file_path = 'pydreamer/0165001.npz'
 # file_path = os.path.join('test/episodes', os.listdir('test/episodes')[0])
 
 dream_seq = np.load(file_path)
